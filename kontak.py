@@ -17,4 +17,4 @@ def munculkan_kontak():
     )
 
     # Email
-    st.write(" Email: najmiatha06@gmail.com")
+    st.write("📬 Email: najmiatha06@gmail.com")
